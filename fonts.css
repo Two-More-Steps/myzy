@@ -2,26 +2,26 @@
   font-family: 'RixGwangalli Pro';
   font-style: normal;
   font-weight: 300;
-  src: url('/RixGwangalli_Pro_Light.eot');
-  src: url('/RixGwangalli_Pro_Light.eot?#iefix') format('embedded-opentype'),
-       url('/RixGwangalli_Pro_Light.woff2') format('woff2'),
-       url('/RixGwangalli_Pro_Light.woff') format('woff');
+  src: url('/myzy/RixGwangalli_Pro_Light.eot');
+  src: url('/myzy/RixGwangalli_Pro_Light.eot?#iefix') format('embedded-opentype'),
+       url('/myzy/RixGwangalli_Pro_Light.woff2') format('woff2'),
+       url('/myzy/RixGwangalli_Pro_Light.woff') format('woff');
 }
 @font-face {
   font-family: 'RixGwangalli Pro';
   font-style: normal;
   font-weight: 500;
-  src: url('/RixGwangalli_Pro_Medium.eot');
-  src: url('/RixGwangalli_Pro_Medium.eot?#iefix') format('embedded-opentype'),
-       url('/RixGwangalli_Pro_Medium.woff2') format('woff2'),
-       url('/RixGwangalli_Pro_Medium.woff') format('woff');
+  src: url('/myzy/RixGwangalli_Pro_Medium.eot');
+  src: url('/myzy/RixGwangalli_Pro_Medium.eot?#iefix') format('embedded-opentype'),
+       url('/myzy/RixGwangalli_Pro_Medium.woff2') format('woff2'),
+       url('/myzy/RixGwangalli_Pro_Medium.woff') format('woff');
 }
 @font-face {
   font-family: 'RixGwangalli Pro';
   font-style: normal;
   font-weight: 700;
-  src: url('/RixGwangalli_Pro_Bold.eot');
-  src: url('/RixGwangalli_Pro_Bold.eot?#iefix') format('embedded-opentype'),
-       url('/RixGwangalli_Pro_Bold.woff2') format('woff2'),
-       url('/RixGwangalli_Pro_Bold.woff') format('woff');
+  src: url('/myzy/RixGwangalli_Pro_Bold.eot');
+  src: url('/myzy/RixGwangalli_Pro_Bold.eot?#iefix') format('embedded-opentype'),
+       url('/myzy/RixGwangalli_Pro_Bold.woff2') format('woff2'),
+       url('/myzy/RixGwangalli_Pro_Bold.woff') format('woff');
 }
